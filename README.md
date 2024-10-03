@@ -15,7 +15,7 @@ This project showcases a comprehensive analysis of Adidas sales data using Power
 ## Technologies Used
 
 - **Tool:** Power BI
-- **Visualization Types:** Bar charts, line graphs, heat maps, and dashboards
+- **Visualization Types:** Bar charts, line graphs, geographic heat maps, pie charts, and dashboards
 
 ## Getting Started
 
